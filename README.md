@@ -1,4 +1,4 @@
-# Máquina de Café em Java
+# Máquina de Café em Java  
 
 Simulação de uma máquina de café escrita em Java.
 
@@ -46,9 +46,21 @@ Essa é a primeira interação do usuário com o sistema.
 
 ![Processo de preparo de um café.](https://cdn.discordapp.com/attachments/742936910019690607/893293527742693376/ssssss.png)
 
-- No fim, é chamada novamente a tela de escolha de bebida. O processo se repete continuamente, encerrando os processos desnecessários para preservar a memória da stack.
+- No fim, é chamada novamente a tela de escolha de bebida. O processo se repete continuamente, encerrando os processos desnecessários para preservar a memória da stack. <h1/>
 
-<hr>
+<div align=center>
+  
+  <h2>
+    Tecnologias utilizadas <br>
+    <a href="https://www.java.com/">
+      <img alt="Java" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    </a>
+    <a href="https://www.java.com/">
+      <img alt="Eclipse IDE" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1280px-Eclipse-Luna-Logo.svg.png" />
+    </a>
+  </h2>
+</div>
+
 
 <div align=center>
   <img src="https://cdn.discordapp.com/attachments/742936910019690607/893296064369668096/UEl2.gif"> <br>
