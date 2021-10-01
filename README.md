@@ -55,7 +55,7 @@ Essa é a primeira interação do usuário com o sistema.
     <a href="https://www.java.com/">
       <img alt="Java" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     </a>
-    <a href="https://www.java.com/">
+    <a href="https://www.eclipse.org/">
       <img alt="Eclipse IDE" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1280px-Eclipse-Luna-Logo.svg.png" />
     </a>
   </h2>
